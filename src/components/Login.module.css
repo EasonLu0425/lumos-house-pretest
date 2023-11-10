@@ -1,0 +1,28 @@
+.formWrapper {
+  
+  width:300px;
+  margin: 3rem auto;
+  border: 1px solid #000;
+  border-radius: 8px;
+  box-shadow: 2px 2px 2px 2px #909090;
+}
+
+.label {
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+input {
+  margin-bottom: 1rem;
+}
+
+.loginBtn {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  background: white;
+}
+
+.null {
+  color: red;
+  font-weight: 600;
+}
