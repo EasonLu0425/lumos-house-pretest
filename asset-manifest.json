@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lumos-house-pretest/static/css/main.092e9a5f.css",
+    "main.js": "/lumos-house-pretest/static/js/main.939fa9ae.js",
+    "static/js/787.cf71b8e1.chunk.js": "/lumos-house-pretest/static/js/787.cf71b8e1.chunk.js",
+    "static/media/logo.svg": "/lumos-house-pretest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lumos-house-pretest/index.html",
+    "main.092e9a5f.css.map": "/lumos-house-pretest/static/css/main.092e9a5f.css.map",
+    "main.939fa9ae.js.map": "/lumos-house-pretest/static/js/main.939fa9ae.js.map",
+    "787.cf71b8e1.chunk.js.map": "/lumos-house-pretest/static/js/787.cf71b8e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.092e9a5f.css",
+    "static/js/main.939fa9ae.js"
+  ]
+}
